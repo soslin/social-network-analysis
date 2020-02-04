@@ -1,0 +1,11 @@
+env.py
+env/
+.ipynb_checkpoints/
+__pycache__
+.DS_Store
+Thumbs.db
+.vscode/
+~*.xlsx
+~*.docx
+~*.pptx
+kev/researching_researchers_data_1_4_20.xlsx
